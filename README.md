@@ -1,8 +1,8 @@
 #  HyperGator access and PyTorch data IO
 
 The objectives of this homework are:
-1. Practice accessing the HiperGator data cluster 
-2. Practice using PyTorch datasets and data loaders
+1. Practice accessing the HiperGator shared data folder.
+2. Practice using PyTorch datasets and data loaders.
 
 ### Move your data to HiperGator (10 pts)
 Create a folder  in the **shared** blue folder at `/blue/isc5935/shared/teamXX/data`.
