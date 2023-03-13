@@ -6,7 +6,7 @@ The objectives of this homework are:
 
 ### Move your data to HiperGator (10 pts)
 Create a folder  in the **shared** blue folder at `/blue/isc5935/shared/teamXX/data`.
-The names should be in the format of `teamXX/data` where `XX` is the number of your team. 
+The name should be in the format of `teamXX/data` where `XX` is the number of your team (1,2 or 3).
 
 Please describe the proposed organization of the data inside that folder.
 
