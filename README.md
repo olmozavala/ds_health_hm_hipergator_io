@@ -26,7 +26,7 @@ or you can use any other organization that you think is appropriate, just descri
 
 
 ### Dataset (10 pts)
-Create a PyTorch dataset **MyGenerator.py** that loads the data from the folder or folders you created in the previous step.
+Create a PyTorch [custom dataset](https://pytorch.org/tutorials/beginner/basics/data_tutorial.html#creating-a-custom-dataset-for-your-files) **MyGenerator.py** that loads the data from the folder or folders you created in the previous step.
 One of the input parameters of your constructor should be *tranform*, which can be a transformation
 applied to each of your generated samples.
 
