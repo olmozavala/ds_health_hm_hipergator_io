@@ -8,6 +8,8 @@ The objectives of this homework are:
 Create a folder  in the **shared** blue folder at `/blue/isc5935/shared/teamXX/data`.
 The name should be in the format of `teamXX/data` where `XX` is the number of your team (1,2 or 3).
 
+Copy the data of your final project to this folder in HiperGator cluster. 
+
 Please describe the proposed organization of the data inside that folder.
 
 Some examples of data organization are:
@@ -22,7 +24,6 @@ Some examples of data organization are:
 
 or you can use any other organization that you think is appropriate, just describe it in your *answer* notebook. 
 
-Finally, copy your data to the cluster. 
 
 ### Dataset (10 pts)
 Create a PyTorch dataset **MyGenerator.py** that loads the data from the folder or folders you created in the previous step.
